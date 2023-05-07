@@ -25,8 +25,8 @@
 
 ## Libraries used
 
-electron : ^23.2.0
-react : ^18.2.0
+-electron : ^23.2.0
+-react : ^18.2.0
 
 ## How to configure
 
