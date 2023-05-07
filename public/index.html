@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <title>Document</title>
+    <style>
+      .loading-animation {
+        display: none;
+        position: absolute;
+        top: 50%;
+        right: 10px;
+        transform: translateY(-50%);
+      }
+      .prompt-textbox {
+        position: relative;
+      }
+    </style>
+  </head>
+  <body onload="focusTextBox()">
+    <div class="div">
+      <div class="prompt-textbox">
+        <input
+          tabindex="0"
+          type="text"
+          id="promptTextarea"
+          name="Name"
+          style="
+            width: 782px;
+            height: 70px;
+            background-color: rgb(65, 65, 65);
+            font-size: xx-large;
+            color: aliceblue;
+            padding-right: 30px;
+          "
+          placeholder="Enter your prompt"
+        />
+        <div class="loading-animation">
+          <h3 style="color: aliceblue;">Loading...</h3>
+        </div>
+      </div>
+    </div>
+    <div class="div" style="margin-top: 15px">
+      <textarea
+        name=""
+        id="responseTextarea"
+        cols="64"
+        rows="10"
+        style="
+          font-size: x-large;
+          background-color: rgb(65, 65, 65);
+          color: aliceblue;
+          font-family: sans-serif;
+          resize: none;
+          display: none; /* Initially hide the response text area */
+        "
+      ></textarea>
+    </div>
+    <script>
+      const focusTextBox = () => {
+        const textBox = document.getElementById("promptTextarea");
+        textBox.focus();
+      };
+
+      window.onload = () => {
+        focusTextBox();
+      };
+    </script>
+    <!-- <script type="module" src="script.js" async></script> -->
+    <script type="module" >
+    //write a js file to retrieve the data from a input field when Enter key is pressed
+    // https://stackoverflow.com/questions/52561202/how-to-get-data-from-input-field-on-enter-key-press
+    </script>
+  </body>
+</html>
