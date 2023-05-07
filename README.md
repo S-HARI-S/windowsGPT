@@ -13,8 +13,10 @@
 2. Maheen K [https://github.com/MachoMaheen]
 
 ## Link to product walkthrough
+https://drive.google.com/file/d/1Aju8c1lidhNnSZR5wK8mk6MGqcg3zaVp/view?usp=sharing
 
-[link to video]
+
+
 
 ## How it Works ?
 
@@ -22,7 +24,7 @@
 - To engage with our system, users input their desired prompt into the promptTextArea. This prompt is subsequently transmitted as a request to the OpenAI API. Upon receiving a response from the API, our application unveils the responseTextArea, displaying the generated response within it
 
 2. Embed video of project demo
-
+![windowGPT](https://user-images.githubusercontent.com/99596115/236688669-a8ba81c4-27b5-42e4-9cde-d68311e883c2.gif=720x1080)
 ## Libraries used
 
 -electron : ^23.2.0
