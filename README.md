@@ -31,9 +31,11 @@ https://drive.google.com/file/d/1Aju8c1lidhNnSZR5wK8mk6MGqcg3zaVp/view?usp=shari
 -react : ^18.2.0
 
 ## How to configure
-
-Instructions for setting up project
+nodejs must be installed
 
 ## How to Run
-
-Instructions for running
+Currently we are not producing a executable program for distributions. you can test our electron application through development environment.
+follow these steps:
+1.npm install
+2.npm run dev
+While running your dev server , trigger Ctrl+Alt+T for enabling windowsGPT
