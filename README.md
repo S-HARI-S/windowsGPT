@@ -13,7 +13,7 @@
 2. Maheen K [https://github.com/MachoMaheen]
 
 ## Link to product walkthrough
-https://drive.google.com/file/d/1L2SprM-FPPIEMdUqJOLD_iav3he8Q6AA/view?usp=sharing
+https://drive.google.com/file/d/14O6iROaMw-1EMTY7qsvoLbD4xmO5nW65/view?usp=sharing
 
 
 
