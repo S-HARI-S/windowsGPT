@@ -16,7 +16,7 @@ So, we set out on a quest to bring the fun back into writing. Our mission: to bl
 
 ## Link to product walkthrough
 
-https://drive.google.com/file/d/1n1L7IKg_42TObLVNhE8kOAvHFp7G1Xih/view?usp=share_link
+https://drive.google.com/file/d/1co2OU57tlmI7pD0ONQ3gVDLy2J-Ib2cL/view?usp=share_link
 
 ## How it Works ?
 
