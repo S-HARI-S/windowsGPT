@@ -30,7 +30,7 @@ https://drive.google.com/file/d/1n1L7IKg_42TObLVNhE8kOAvHFp7G1Xih/view?usp=share
 ## Libraries used
 
 - electron : ^23.2.0
-- -react : ^18.2.0
+- react : ^18.2.0
 
 ## How to configure
 
