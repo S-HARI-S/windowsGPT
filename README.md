@@ -2,10 +2,12 @@
 
 # windowsGPT
 
-- In the fast-paced world of writing, where creativity flows and deadlines loom, we've all experienced those "Aha!" moments mixed with bouts of uncertainty. Picture this: you're knee-deep in an essay, racing against the clock, and suddenly a question pops into your head. You turn to your trusty companions like Google Docs, Word, or Notepad, only to find yourself caught in a web of tabs, sign-ins, and endless searching. Ugh, talk about a buzzkill!
-  But fear not, dear writer, for we have concocted a sensational solution to rescue you from this harrowing ordeal. Inspired by the sheer brilliance of power toys and their ability to simplify tasks in the Windows universe, we decided to infuse a healthy dose of awesomeness into our creation.
-  Imagine a world where you can effortlessly chat with a clever GPT companion, right there in your writing zone. No more detours, no more sluggish searches. It's like having a personal writing assistant who's always ready to help, without skipping a beat.
-  So, we set out on a quest to bring the fun back into writing. Our mission: to blend the magic of power toys with the mind-boggling capabilities of chat GPT. The result? A seamless integration that will revolutionize your writing experience and make those doubtful moments a thing of the past.
+In the fast-paced world of writing, where creativity flows and deadlines loom, we've all experienced those "Aha!" moments mixed with bouts of uncertainty. Picture this: you're knee-deep in an essay, racing against the clock, and suddenly a question pops into your head. You turn to your trusty companions like Google Docs, Word, or Notepad, only to find yourself caught in a web of tabs, sign-ins, and endless searching. Ugh, talk about a buzzkill!
+
+But fear not, dear writer, for we have concocted a sensational solution to rescue you from this harrowing ordeal. Inspired by the sheer brilliance of power toys and their ability to simplify tasks in the Windows universe, we decided to infuse a healthy dose of awesomeness into our creation.
+Imagine a world where you can effortlessly chat with a clever GPT companion, right there in your writing zone. No more detours, no more sluggish searches. It's like having a personal writing assistant who's always ready to help, without skipping a beat.
+
+So, we set out on a quest to bring the fun back into writing. Our mission: to blend the magic of power toys with the mind-boggling capabilities of chat GPT. The result? A seamless integration that will revolutionize your writing experience and make those doubtful moments a thing of the past.
 
 ## Team members
 
@@ -13,10 +15,8 @@
 2. Maheen K [https://github.com/MachoMaheen]
 
 ## Link to product walkthrough
-https://drive.google.com/file/d/14O6iROaMw-1EMTY7qsvoLbD4xmO5nW65/view?usp=sharing
 
-
-
+https://drive.google.com/file/d/1mVJRKhJDte2I11EXBsSXRMKdDcO8PvFQ/view?usp=share_link
 
 ## How it Works ?
 
@@ -24,18 +24,29 @@ https://drive.google.com/file/d/14O6iROaMw-1EMTY7qsvoLbD4xmO5nW65/view?usp=shari
 - To engage with our system, users input their desired prompt into the promptTextArea. This prompt is subsequently transmitted as a request to the OpenAI API. Upon receiving a response from the API, our application unveils the responseTextArea, displaying the generated response within it
 
 2. Embed video of project demo
-![windowGPT](https://user-images.githubusercontent.com/99596115/236688669-a8ba81c4-27b5-42e4-9cde-d68311e883c2.gif=720x1080)
+   ![windowGPT](https://user-images.githubusercontent.com/99596115/236688669-a8ba81c4-27b5-42e4-9cde-d68311e883c2.gif=720x1080)
+
 ## Libraries used
 
--electron : ^23.2.0
--react : ^18.2.0
+- electron : ^23.2.0
+- -react : ^18.2.0
 
 ## How to configure
-nodejs must be installed
+
+- node.js must be installed
+- npm i
 
 ## How to Run
+
 Currently we are not producing a executable program for distributions. you can test our electron application through development environment.
 follow these steps:
-1.npm install
-2.npm run dev
+
+```npm
+npm install
+```
+
+```npm
+npm run dev 
+```
+
 While running your dev server , trigger Ctrl+Alt+T for enabling windowsGPT
