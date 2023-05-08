@@ -16,15 +16,16 @@ So, we set out on a quest to bring the fun back into writing. Our mission: to bl
 
 ## Link to product walkthrough
 
-https://drive.google.com/file/d/1mVJRKhJDte2I11EXBsSXRMKdDcO8PvFQ/view?usp=share_link
+https://drive.google.com/file/d/1n1L7IKg_42TObLVNhE8kOAvHFp7G1Xih/view?usp=share_link
 
 ## How it Works ?
 
 - Our project comprises a central application built on Electron framework, housing the main process. Within this framework, we employ the globalShortcut() function of Electron to monitor a designated keyboard shortcut. Once the shortcut is successfully registered, our application generates a child frameless transparent window, designed with two text areas: the promptTextArea and the responseTextArea. Initially, the responseTextArea remains hidden from view.
 - To engage with our system, users input their desired prompt into the promptTextArea. This prompt is subsequently transmitted as a request to the OpenAI API. Upon receiving a response from the API, our application unveils the responseTextArea, displaying the generated response within it
 
-2. Embed video of project demo
-   ![windowGPT](https://user-images.githubusercontent.com/99596115/236688669-a8ba81c4-27b5-42e4-9cde-d68311e883c2.gif=720x1080)
+![WindowsGPT demo](https://user-images.githubusercontent.com/92015765/236737353-9451e30b-6923-4d70-8388-1606c2159764.gif)
+
+
 
 ## Libraries used
 
