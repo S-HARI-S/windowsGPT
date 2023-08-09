@@ -1,7 +1,6 @@
 ![Electron Notion](https://user-images.githubusercontent.com/64391274/235363274-375ce61c-721f-4543-a150-1b99525d54ac.png)
 
 # windowsGPT
-
 In the fast-paced world of writing, where creativity flows and deadlines loom, we've all experienced those "Aha!" moments mixed with bouts of uncertainty. Picture this: you're knee-deep in an essay, racing against the clock, and suddenly a question pops into your head. You turn to your trusty companions like Google Docs, Word, or Notepad, only to find yourself caught in a web of tabs, sign-ins, and endless searching. Ugh, talk about a buzzkill!
 
 But fear not, dear writer, for we have concocted a sensational solution to rescue you from this harrowing ordeal. Inspired by the sheer brilliance of power toys and their ability to simplify tasks in the Windows universe, we decided to infuse a healthy dose of awesomeness into our creation.
